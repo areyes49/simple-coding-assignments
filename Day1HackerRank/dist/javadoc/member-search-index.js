@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"day1hackerrank","c":"Day1HackerRank","l":"Day1HackerRank()","u":"%3Cinit%3E()"},{"p":"day1hackerrank","c":"Day1HackerRank","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
